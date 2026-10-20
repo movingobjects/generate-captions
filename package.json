@@ -1,0 +1,25 @@
+{
+  "name": "@movingobjects/generate-captions",
+  "version": "1.0.0",
+  "description": "Batch-generate WebVTT/SRT captions for videos using ffmpeg + whisper.cpp",
+  "type": "module",
+  "bin": {
+    "generate-captions": "bin/generate-captions.mjs"
+  },
+  "files": [
+    "bin"
+  ],
+  "engines": {
+    "node": ">=18.3"
+  },
+  "keywords": [
+    "captions",
+    "subtitles",
+    "webvtt",
+    "srt",
+    "whisper",
+    "ffmpeg"
+  ],
+  "author": "Scott Thiessen",
+  "license": "ISC"
+}

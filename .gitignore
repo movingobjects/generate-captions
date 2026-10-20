@@ -1,0 +1,13 @@
+node_modules/
+.DS_Store
+
+# Test media and generated captions
+*.mp4
+*.mov
+*.m4v
+*.webm
+*.mkv
+*.avi
+*.wav
+*.vtt
+*.srt
